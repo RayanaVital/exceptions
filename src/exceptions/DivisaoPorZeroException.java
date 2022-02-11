@@ -1,6 +1,6 @@
 package exceptions;
 
-public class DivisaoPorZeroException extends Exception {
+public class DivisaoPorZeroException extends Exception { //se for exceção unchecked usar o runtimeexception
 
 	/**
 	 * 

@@ -84,8 +84,24 @@ public class TestException {
 //	
 //    // a clausula throws declara exceções que podem ocorrer ou ser lançadas em determinado metodo, forçando assim que quem o chame faça o tratamento da exceção na clasusa throws 	
 //	
-//		
+//	
+		//CRIAÇÃO DE EXCEÇÕES
 		
+		// para criar uma exceção em java precisamos criar uma classe que herde de exception ou runtime exception
+		//caso ela herde de exception sera uma exceção checked
+		//caso ela herde de runtime exception sera uma exceção unchecked 
+		
+//		try {
+//			//trecho onde a exceção pode ocorrer
+//			int val = 10 / 0;
+//			System.out.println(val);
+//			
+//		} catch(Exception e) { //Captura da exceção
+//			
+//			//tratamento da exceção
+//			
+//			throw new DivisaoPorZeroException(); //lançamos um exceção divisão por zero exception atraves do comando throw 
+//		
 		
 		
 		}
